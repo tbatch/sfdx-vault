@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Front Street Brewery",
+            "Location__Latitude__s": 34.2370503,
+            "Location__Longitude__s": -77.9492165
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "APITURE Headquarters",
+            "Location__Latitude__s": 34.195948,
+            "Location__Longitude__s": -77.868906
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "New Hanover County Library",
+            "Location__Latitude__s": 34.238105,
+            "Location__Longitude__s": -77.9482662
+        }
+    ]
+}
