@@ -4,14 +4,14 @@
         <apexClass>AccountController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>TestAccountController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
-    <tabVisibilities>
-        <tab>Account_Locator</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
